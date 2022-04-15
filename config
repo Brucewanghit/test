@@ -1,0 +1,9 @@
+Host seis
+  HostName seis.bris.ac.uk
+  User dz21571
+
+Host lab
+  HostName rd-mvb-linuxlab.bristol.ac.uk
+  ProxyJump seis
+  User dz21571
+
